@@ -8,6 +8,6 @@ The content seems too much right? Well, let's break it down.
 
 Please go through the following content step by step:
 * **Week 1: [Python](https://scrimba.com/learn/python),[Numpy](https://www.w3schools.com/python/numpy/default.asp) and Data Visualization with [Matplotlib](https://www.w3schools.com/python/matplotlib_intro.asp)**
-** Python has to be done completely.
-** NumPy doing till "Random Permutation" is sufficient.
-** Matplotlib is pretty short and can be completed quickly.
+* Python has to be done completely.
+* NumPy doing till "Random Permutation" is sufficient.
+* Matplotlib is pretty short and can be completed quickly.
