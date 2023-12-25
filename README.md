@@ -14,3 +14,7 @@ Some guidelines for resources:
 Please go through the following content step by step:
 * **Week 1: [Python](https://scrimba.com/learn/python),[Numpy](https://www.w3schools.com/python/numpy/default.asp) and Data Visualization with [Matplotlib](https://www.w3schools.com/python/matplotlib_intro.asp)**
 * **Week 2: [Introduction to Supervised Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/1)**
+* **Colab Notebook Tutorial** : (https://youtu.be/RLYoEyIHL6A?si=mc9GV0_nhfB_CYRg)
+* **Jupyter Notebook Tutorial** : (https://youtu.be/HW29067qVWk?si=eW6kwawlI2OOHShI)
+### Note
+You are free to use either of the two platforms for coding(Jupyter or Colab) whichever is easy to use.Make sure you learn atleast one of them as you have to do the final assignment using one of these platforms.
