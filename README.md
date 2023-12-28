@@ -11,7 +11,7 @@ Some guidelines for resources:
 ## **Week 2** 
   This week you are required to do a coursera course on supervised machine learning.Starting with this you are officially stepping into the world of Machine Learning.This week will be mostly focussed on the theory part.All of you are advised to go through the course very nicely and make notes as well as it will help you understand what you are actually doing in the project.
 [Week2-Assignment](https://docs.google.com/document/d/1mpbGFYHEMcbdJ5uzWZXadYQhvrCsYFq187ZT941-_Rc/edit?usp=sharing)
-Please go through the following content step by step:
+  Please go through the following content step by step:
 * **Week 1: [Python](https://scrimba.com/learn/python),[Numpy](https://www.w3schools.com/python/numpy/default.asp) and Data Visualization with [Matplotlib](https://www.w3schools.com/python/matplotlib_intro.asp)**
 * **Week 2: [Introduction to Supervised Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/1)**
 * **Colab Notebook Tutorial** : (https://youtu.be/RLYoEyIHL6A?si=mc9GV0_nhfB_CYRg)
