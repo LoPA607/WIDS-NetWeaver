@@ -14,7 +14,10 @@ Some guidelines for resources:
 ### Please go through the following content step by step:
 * **Week 1: [Python](https://scrimba.com/learn/python),[Numpy](https://www.w3schools.com/python/numpy/default.asp) and Data Visualization with [Matplotlib](https://www.w3schools.com/python/matplotlib_intro.asp)**
 * **Week 2: [Introduction to Supervised Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/1)**
+* **Week 3: [Neural Networks](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)**
 * **Colab Notebook Tutorial** : (https://youtu.be/RLYoEyIHL6A?si=mc9GV0_nhfB_CYRg)
 * **Jupyter Notebook Tutorial** : (https://youtu.be/HW29067qVWk?si=eW6kwawlI2OOHShI)
+## **Week 3**
+  This week you will learn about Neural Networks.The videos might seem too much but are very short and can be completed.Alternatively [these videos](https://www.youtube.com/watch?v=CqOfi41LfDw&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) are also great.First 10 videos are sufficient for the purpose of this project but intersted peeps can watch the complete playlist if they want :).
 ### Note
 You are free to use either of the two platforms for coding(Jupyter or Colab) whichever is easy to use.Make sure you learn atleast one of them as you have to do the final assignment using one of these platforms.
