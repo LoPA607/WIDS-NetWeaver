@@ -19,5 +19,7 @@ Some guidelines for resources:
 * **Jupyter Notebook Tutorial** : (https://youtu.be/HW29067qVWk?si=eW6kwawlI2OOHShI)
 ## **Week 3**
   This week you will learn about Neural Networks.The videos might seem too much but are very short and can be completed.Alternatively [these videos](https://www.youtube.com/watch?v=CqOfi41LfDw&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) are also great.First 10 videos are sufficient for the purpose of this project but intersted peeps can watch the complete playlist if they want :).
+## **Week 4**
+  Here comes the final implementation and the end to this month-long journey!This is the [dataset](https://drive.google.com/file/d/1OMsh7J3AkkTF97XkzM2ePifJOmG-2xrO/view?usp=sharing) you require to solve the assignment and this is the link to the [final assignment](https://colab.research.google.com/drive/1FVU5WKiniS107_s524RyMt6GbED7Bmo7?usp=sharing).PLEASE DO NOT MODIFY THE ORIGINAL ASSIGNMENT EITHER MAKE A COPY IN DRIVE OR DOWNLOAD IT AS .ipynb FILE.
 ### Note
 You are free to use either of the two platforms for coding(Jupyter or Colab) whichever is easy to use.Make sure you learn atleast one of them as you have to do the final assignment using one of these platforms.
